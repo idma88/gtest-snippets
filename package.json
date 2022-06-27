@@ -2,7 +2,7 @@
 	"name": "gtest-snippets",
 	"displayName": "GTest Snippets",
 	"description": "Google Test snippets",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "idma88",
 	"author": {
 		"name": "Dmitrii Ivanov"
@@ -15,7 +15,7 @@
 	},
 	"bugs": "https://github.com/idma88/gtest-snippets/issues",
 	"galleryBanner": {
-		"color": "#00757E",
+		"color": "#3b7dee",
 		"theme": "dark"
 	},
 	"engines": {
@@ -29,6 +29,7 @@
 		"gtest",
 		"googletest"
 	],
+	"icon": "images/icon.png",
 	"contributes": {
 		"snippets": [
 			{
